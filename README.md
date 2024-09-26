@@ -1,47 +1,30 @@
+
 # 🌳 Intelligent Mistletoe Visualizer
-This project is a frontend interface for an AI-powered mistletoe visualizer. Users can upload tree images to detect mistletoe, a parasitic plant harmful to trees. Currently, only the frontend is developed, with image analysis simulated until backend AI integration for automatic mistletoe detection is complete.
 
-## Features
+This project will be a frontend interface based on React for an AI-powered mistletoe visualizer. Users will be able to upload images of trees to detect the presence of mistletoe, a parasitic plant that can be harmful to trees. The project is currently in the development phase, and we are just starting to build the frontend.
 
-- **Image Upload**: Users can select and upload photos of trees for analysis.
-- **Mistletoe Detection Simulation**: The frontend simulates the detection process until backend integration with AI is complete.
-- **User-Friendly Interface**: A clean and simple design to ensure easy interaction.
+## Project Description
 
-## Current Status
+The goal of this project is to provide a simple and accessible tool for users to upload photos of trees and, using an AI model (to be integrated in the future), automatically detect mistletoe in the images. Currently, we are in the early stages of frontend development, and at this phase, there is no full functionality or backend integration with the AI model yet.
 
-- **Frontend**: The user interface is fully functional and allows image uploads.
-- **Backend**: Not yet integrated. The AI model for detecting mistletoe is under development.
-- **Simulation**: For now, the analysis result is simulated, pending the actual integration of the AI model.
+### Main Objectives:
+- **Create an interactive interface**: Users will be able to upload images intuitively and easily.
+- **Detection Simulation**: the detection results will be simulated.
+- **AI Integration**: The backend and AI model will be integrated to make the analysis accurate and automatic.
 
-## Future Updates
+## Proposed Technologies
 
-- **Backend AI Integration**: The next step is to integrate an AI model that can analyze uploaded images and accurately detect mistletoe.
-- **Accuracy Improvement**: Once integrated, the detection algorithm will be continuously optimized.
+For the development of this project, the following technologies will be used:
 
-## Installation
+- **React**: For building the user interface.
+- **HTML5 and CSS3**: For structuring and styling the webpage.
+- **JavaScript (ES6+)**: For frontend functionality and logic.
 
-To run this project locally:
+## Installation and Usage
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/intelligent-mistletoe-visualizer.git
+This project is designed for users to access directly via a webpage. There will be no need for users to install or run anything on their local machines. All functionality will be available online once the development is complete.
 
-2. Navigate to the project directory:
-   ```bash
-   cd intelligent-mistletoe-visualizer
 
-3. Install dependencies:
-   ```bash
-    npm install
+## Acknowledgments
 
-4. Start the development server:
-   ```bash
-    npm start
-
-5. Open your browser and go to http://localhost:3000 to see the app in action.
-
-## Contributing
 Special thanks to **Maestra Nora Cuevas** from the Department of Computer Systems Engineering at Instituto Tecnológico de Mérida for her invaluable guidance and contributions to this project.
-
-
-
