@@ -31,9 +31,11 @@ To run this project locally:
    cd intelligent-mistletoe-visualizer
 
 3. Install dependencies:
+   ```bash
     npm install
 
-4. Start the development serever:
+4. Start the development server:
+   ```bash
     npm start
 
 5. Open your browser and go to http://localhost:3000 to see the app in action.
