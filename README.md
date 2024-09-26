@@ -25,3 +25,21 @@ To run this project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/intelligent-mistletoe-visualizer.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd intelligent-mistletoe-visualizer
+
+3. Install dependencies:
+    npm install
+
+4. Start the development serever:
+    npm start
+
+5. Open your browser and go to http://localhost:3000 to see the app in action.
+
+## Contributing
+Special thanks to **Maestra Nora Cuevas** from the Department of Computer Systems Engineering at Instituto Tecnológico de Mérida for her invaluable guidance and contributions to this project.
+
+
+
